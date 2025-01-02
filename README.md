@@ -1,1 +1,1 @@
-This is an excel project 
+This project marked the start of my data analytics journey, leveraging Excel to explore foundational concepts and techniques. Key skills developed include data retrieval using XLOOKUP, INDEX, and MATCH, creating interactive dashboards with slicers, and organizing and cleaning data for analysis. This YouTube project provided a solid foundation in Excel and ignited my passion for data analytics.
